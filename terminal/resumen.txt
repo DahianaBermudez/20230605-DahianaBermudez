@@ -1,0 +1,5 @@
+1. git status
+2. git checkout -b 
+3. git add .
+4. git commit -m
+5. git push 
